@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/monika/Documents/COURSES/HSBC_tasks/matrix/src/Matrix.cpp
+iostream
+-
+stdlib.h
+-
+math.h
+-
+Matrix.hpp
+/home/monika/Documents/COURSES/HSBC_tasks/matrix/src/Matrix.hpp
+
+/home/monika/Documents/COURSES/HSBC_tasks/matrix/src/Matrix.hpp
+vector
+-
+
+/home/monika/Documents/COURSES/HSBC_tasks/matrix/src/main.cpp
+iostream
+-
+vector
+-
+bits/stdc++.h
+-
+Matrix.hpp
+/home/monika/Documents/COURSES/HSBC_tasks/matrix/src/Matrix.hpp
+

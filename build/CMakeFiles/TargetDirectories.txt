@@ -1,0 +1,5 @@
+/home/monika/Documents/COURSES/HSBC_tasks/matrix/build/CMakeFiles/edit_cache.dir
+/home/monika/Documents/COURSES/HSBC_tasks/matrix/build/CMakeFiles/test.dir
+/home/monika/Documents/COURSES/HSBC_tasks/matrix/build/CMakeFiles/rebuild_cache.dir
+/home/monika/Documents/COURSES/HSBC_tasks/matrix/build/CMakeFiles/matrix_def.dir
+/home/monika/Documents/COURSES/HSBC_tasks/matrix/build/CMakeFiles/test_matrix_dim.dir
